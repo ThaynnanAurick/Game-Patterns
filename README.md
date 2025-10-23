@@ -4,14 +4,9 @@
 Análise estratégica do mercado de videogames para identificar padrões de vendas, preferências regionais e tendências do setor. O projeto utiliza dados históricos de vendas para fornecer insights valiosos para estratégias de marketing e desenvolvimento.
 
 🛠️ Tecnologias Utilizadas
-Linguagem & Bibliotecas
-python
-pandas
-numpy 
-matplotlib.pyplot
-seaborn 
-scipy
-Análise de Dados
+Linguagem & Bibliotecas, python, pandas, numpy , matplotlib.pyplot, seaborn, scipy
+
+Aplicações práticas
 Pandas - Manipulação e limpeza de dados
 NumPy - Cálculos numéricos
 Matplotlib/Seaborn - Visualização de dados
